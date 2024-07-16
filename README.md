@@ -1,5 +1,5 @@
-<!-- ![Readme Card](https://github-readme-stats.vercel.app/api?username=nicobonne&count_private=true&show_icons=true&theme=algolia) -->
-![Readme Card](https://github-readme-stats.vercel.app/api?username=nicobonne&show_icons=true&count_private=true&include_all_commits=false&card_width=450&role=OWNER,COLLABORATOR&theme=algolia)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api?username=nicobonne&show_icons=true&count_private=true&include_all_commits=false&card_width=450&role=OWNER,COLLABORATOR&theme=algolia) -->
+
 <!--
 **nicobonne/nicobonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
